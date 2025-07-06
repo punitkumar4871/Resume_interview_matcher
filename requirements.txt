@@ -1,0 +1,22 @@
+numpy 
+pandas 
+seaborn
+scikit-learn
+xgboost
+catboost
+joblib
+Flask
+scipy
+dill
+streamlit
+google-generativeai
+flask-limiter
+flask-caching
+pdfkit
+gunicorn
+weasyprint
+fpdf2
+reportlab
+PyPDF2
+docx2txt
+-e .
