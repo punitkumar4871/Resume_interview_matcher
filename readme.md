@@ -1,2 +1,2 @@
-this is a project
+this project is
 IN PROGRESS.
